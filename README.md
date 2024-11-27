@@ -1,3 +1,4 @@
+<h4 align="left">Discord: marcadj</h4>
 <h4 align="left">Currently Working on:</h4>
 <a href="https://github.com/marcdejesus/Senior-Design-Group4">TymeLyne</a>
 <h4 align="left">Education:</h4>
