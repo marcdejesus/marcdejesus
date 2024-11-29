@@ -1,6 +1,6 @@
 <h4 align="left">Discord: marcadj</h4>
 <h4 align="left">Currently Working on:</h4>
-<a href="https://github.com/marcdejesus/Senior-Design-Group4">TymeLyne</a>
+<a href="https://github.com/marcdejesus/TymeLyne">TymeLyne</a>
 <h4 align="left">Education:</h4>
 <p>Central Michigan University B.S. Computer Science 2025</p>
 
