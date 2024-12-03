@@ -8,3 +8,5 @@
 <h4 align="left">Skills:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cs,dotnet,git,sqlite,js,ts,html,css,react,ps,figma)](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcdejesus&theme=dark)](https://git.io/streak-stats)
