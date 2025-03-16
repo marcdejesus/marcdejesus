@@ -26,7 +26,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,html,css)](https://skillicons.dev)
 
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,postman,ai,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,ai,photoshop)](https://skillicons.dev)
+
+#### Testing
+[![My Skills](https://skillicons.dev/icons?i=postman,jest,cypress)](https://skillicons.dev)
 
 #### Deployment
 [![My Skills](https://skillicons.dev/icons?i=vercel,netlify,aws)](https://skillicons.dev)
