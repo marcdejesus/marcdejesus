@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,html,css)](https://skillicons.dev)
 
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,ai,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,figma,ai,photoshop)](https://skillicons.dev)
 
 #### Testing
 [![My Skills](https://skillicons.dev/icons?i=postman,jest,cypress)](https://skillicons.dev)
