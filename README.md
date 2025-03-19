@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,vite,next,tailwindcss,redux)](https://skillicons.dev)
 
 #### Back-End 
-[![My Skills](https://skillicons.dev/icons?i=django,supabase,firebase,sqlite,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,supabase,firebase,sqlite,mongodb,nodejs,spring)](https://skillicons.dev)
 
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,html,css)](https://skillicons.dev)
