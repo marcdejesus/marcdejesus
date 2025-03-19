@@ -14,7 +14,7 @@
 
 ---
 
-### 🔧 Tech Stack  
+### 🔧 Technologies I have experience with: 
 
 #### Front-End
 [![My Skills](https://skillicons.dev/icons?i=react,vite,next,tailwindcss,redux)](https://skillicons.dev)
