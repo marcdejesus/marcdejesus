@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=postman,jest,cypress)](https://skillicons.dev)
 
 #### Deployment
-[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
 ---
 
