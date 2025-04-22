@@ -17,7 +17,7 @@
 ### 🔧 Technologies I prefer: 
 
 #### Front-End
-[![My Skills](https://skillicons.dev/icons?i=react,vite,next,tailwindcss,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,redux)](https://skillicons.dev)
 
 #### Back-End 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,supabase)](https://skillicons.dev)
