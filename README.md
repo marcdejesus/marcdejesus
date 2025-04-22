@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Marc De Jesus
 
-**💻 Software Developer | Computer Science Senior | Full-Stack Developer**  
+**💻 Software Developer | Computer Science Senior | Frontend Developer**  
 🚀 Passionate about self-improvement, technology, fitness, and gaming  
 📱 Currently developing **TymeLyne**, an AI-driven life coaching app  
 🎯 Working on improving project development and building my online business  
@@ -9,8 +9,8 @@
 
 ### 🚀 What I'm Up To  
 - Building **TymeLyne**, an all-in-one self-improvement app  
-- Developing a **Fitness Application** that fully analyzes every aspect of their fitness to give advanced insights 
-- Exploring new frameworks and tools to improve my development workflow  
+- Getting certified in Google UX Design, Meta Frontend Developer, Meta iOS Developer, and Meta Android Developer
+- Wrapping up my final semester of college.
 
 ---
 
@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,vite,next,tailwindcss,redux)](https://skillicons.dev)
 
 #### Back-End 
-[![My Skills](https://skillicons.dev/icons?i=django,supabase,firebase,sqlite,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,supabase)](https://skillicons.dev)
 
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,html,css)](https://skillicons.dev)
