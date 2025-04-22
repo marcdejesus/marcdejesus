@@ -14,7 +14,7 @@
 
 ---
 
-### 🔧 Technologies I have experience with: 
+### 🔧 Technologies I prefer: 
 
 #### Front-End
 [![My Skills](https://skillicons.dev/icons?i=react,vite,next,tailwindcss,redux)](https://skillicons.dev)
