@@ -12,27 +12,6 @@
 - Getting certified in Google UX Design, Meta Frontend Developer, Meta iOS Developer, and Meta Android Developer
 - Wrapping up my final semester of college.
 
----
-
-### 🔧 Technologies I prefer: 
-
-#### Front-End
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,redux)](https://skillicons.dev)
-
-#### Back-End 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,supabase)](https://skillicons.dev)
-
-#### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,html,css)](https://skillicons.dev)
-
-#### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,figma,ai,photoshop)](https://skillicons.dev)
-
-#### Testing
-[![My Skills](https://skillicons.dev/icons?i=postman,jest,cypress)](https://skillicons.dev)
-
-#### Deployment
-[![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
 ---
 
