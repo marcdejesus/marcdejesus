@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Marc De Jesus
 
-**💻 Frontend Developer | UX/UI Designer r**  
+**💻 Frontend Developer | UX/UI Designer**  
 🚀 Passionate about self-improvement, technology, fitness, and gaming  
 📱 Currently developing **TymeLyne**, an AI-driven life coaching app  
 🎯 Working on improving project development and building my online business  
