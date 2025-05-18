@@ -5,6 +5,7 @@ I'm a passionate software developer with a B.S. in Computer Science from Central
 
 I'm currently sharpening my skills in frontend technologies and modern design systems through projects, certifications, and real-world freelance work. I also run **De Jesus Digital Solutions**, helping small businesses grow their online presence through custom websites, mobile apps, and SEO.
 
+Certified in **Google UX Design**, **Meta Frontend Development**, and **Meta iOS Development** via Coursera.
 ---
 
 ### 🚀 What I'm Up To
@@ -12,7 +13,6 @@ I'm currently sharpening my skills in frontend technologies and modern design sy
 - 🔨 Building **TymeLyne**, an AI-powered learning app using React Native, OpenAI API, Node.js, and MongoDB.
 - 🧠 Exploring AI and automation with Raspberry Pi and Arduino for real-world solutions. (Hobby)
 - 📈 Freelancing through **De Jesus Digital Solutions** for website and mobile app development services.
-- ✅ Certified in **Google UX Design** and **Meta Frontend Development** via Coursera.
 - 💡 Constantly learning about product design, dev workflows, and startup growth strategies.
 
 ---
