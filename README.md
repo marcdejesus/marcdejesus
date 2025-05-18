@@ -6,6 +6,7 @@ I'm a passionate software developer with a B.S. in Computer Science from Central
 I'm currently sharpening my skills in frontend technologies and modern design systems through projects, certifications, and real-world freelance work. I also run **De Jesus Digital Solutions**, helping small businesses grow their online presence through custom websites, mobile apps, and SEO.
 
 Certified in **Google UX Design**, **Meta Frontend Development**, and **Meta iOS Development** via Coursera.
+
 ---
 
 ### 🚀 What I'm Up To
