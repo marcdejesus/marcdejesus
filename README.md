@@ -56,7 +56,6 @@ Personal portfolio website featuring integrated CMS blog and comprehensive SEO o
 
 ## 📊 GitHub Stats
 
-![Marc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcdejesus&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcdejesus&layout=compact&theme=dark&hide_border=true)
 
 ## 🤝 Let's Connect
