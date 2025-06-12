@@ -9,10 +9,10 @@
 
 ## 🚀 Featured Projects
 
-### 🏛️ [First Baptist Church of Fenton](https://github.com/marcdejesus)
+### 🏛️ [First Baptist Church of Fenton](https://firstbaptistchurchfenton.vercel.app/)
 Church management platform featuring Google Calendar integration, AI-powered sermon summaries, and live streaming capabilities
 
-### 🎮 [RetroTypeWave](https://github.com/marcdejesus)
+### 🎮 [RetroTypeWave](https://retrotypewave.com)
 Synthwave-themed typing game with AI competitors, detailed performance analytics, and retro aesthetics
 
 ### 💼 [Developer Portfolio](https://marcdejesusdev.com)
