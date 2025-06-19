@@ -5,17 +5,6 @@
 - 🎨 Certified in **UX Design** (Google)
 - 🌟 Passionate about **accessible design**, **clean architecture**, and **performance optimization**
 
-## 🚀 Featured Projects
-
-### 🏛️ [First Baptist Church of Fenton](https://firstbaptistchurchfenton.vercel.app/)
-Church management platform featuring Google Calendar integration, AI-powered sermon summaries, and live streaming capabilities
-
-### 🎮 [RetroTypeWave](https://retrotypewave.com)
-Synthwave-themed typing game with AI competitors, detailed performance analytics, and retro aesthetics
-
-### 💼 [Developer Portfolio](https://marcdejesusdev.com)
-Personal portfolio website featuring integrated CMS blog and comprehensive SEO optimization
-
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcdejesus&layout=compact&theme=dark&hide_border=true)
