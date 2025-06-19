@@ -1,5 +1,3 @@
-# Hi there, I'm Marc De Jesus 👋
-
 ## 🎓 About Me
 
 - 🎓 Computer Science student at **Central Michigan University**
