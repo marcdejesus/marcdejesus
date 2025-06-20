@@ -1,7 +1,7 @@
 ## 🎓 About Me
 
 - 🎓 B.S. Computer Science, **Central Michigan University** 2025
-- 🤖 Certified AI Agent Developmer, **Vanderbilt University** 2025
+- 🤖 Certified AI Agent Developer, **Vanderbilt University** 2025
 - 🎨 Certified UX Designer, **Google Careers** 2025
 - 🌟 Passionate about **user experience**, **clean architecture**, and **performance optimization**
 
