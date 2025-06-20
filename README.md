@@ -1,9 +1,9 @@
 ## 🎓 About Me
 
-- 🎓 Computer Science student at **Central Michigan University**
+- 🎓 B.S. Computer Science, **Central Michigan University** 2025
 - 🤖 Certified in **AI Agent Development** (Vanderbilt University)
 - 🎨 Certified in **UX Design** (Google)
-- 🌟 Passionate about **accessible design**, **clean architecture**, and **performance optimization**
+- 🌟 Passionate about **user experience**, **clean architecture**, and **performance optimization**
 
 ## 📊 GitHub Stats
 
