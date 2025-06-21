@@ -5,7 +5,7 @@
 - 🎨 Certified UX Designer, **Google Careers** 2025
 - 🌟 Passionate about **user experience**, **clean architecture**, and **performance optimization**
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcdejesus&layout=compact&theme=dark&hide_border=true)
 
