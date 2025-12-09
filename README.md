@@ -4,10 +4,7 @@
 - 🤖 Certified AI Agent Developer, **Vanderbilt University** 2025
 - 🎨 Certified UX Designer, **Google Careers** 2025
 - 🌟 Passionate about **user experience**, **clean architecture**, and **performance optimization**
-
-## 📊 My Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcdejesus&layout=compact&theme=dark&hide_border=true)
+- 🌟 Life-long learner always open to new opportunities.
 
 ## 🤝 Let's Connect
 
