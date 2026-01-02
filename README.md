@@ -6,6 +6,8 @@ I prefer Django for backend development due to its smooth development experience
 
 For the frontend, I enjoy working with JavaScript frameworks such as Next.js for the web, and I prefer native mobile development using Swift and Kotlin to take full advantage of platform-specific APIs like Apple HealthKit. React Native is very good as well if the project has a lower budget and doesn't require as many native platform-specific features.
 
+I primarily develop close-sourced projects. If you are interested in viewing my work, please reach out to me and I can schedule a meeting to review some code with you. My work can be viewed on my portfolio website.
+
 ## About Me
 
 - B.S. Computer Science, **Central Michigan University** 2025
