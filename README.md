@@ -4,7 +4,7 @@ Hi, I'm Marc De Jesus. I’m a full-stack developer with a strong passion for mo
 
 I prefer Django for backend development due to its smooth development experience and powerful built-in admin interface. I’m also a strong advocate for Python-based backends because of Python’s extensive ecosystem for data analytics, machine learning, and scalable application development.
 
-For the frontend, I enjoy working with JavaScript frameworks such as Next.js for the web, and I prefer native mobile development using Swift and Kotlin to take full advantage of platform-specific APIs like Apple HealthKit.
+For the frontend, I enjoy working with JavaScript frameworks such as Next.js for the web, and I prefer native mobile development using Swift and Kotlin to take full advantage of platform-specific APIs like Apple HealthKit. React Native is very good as well if the project has a lower budget and doesn't require as many native platform-specific features.
 
 ## About Me
 
