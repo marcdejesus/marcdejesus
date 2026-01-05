@@ -2,7 +2,7 @@
 
 - B.S. Computer Science, **Central Michigan University** 2025
 - Certified UX Designer, **Google Careers** 2025
-- Passionate about **React and React Native Development**, **user experience**, **clean object-oriented architecture**, **scalable database integration#**, and **test-driven development**
+- Passionate about **React and React Native Development**, **user experience**, **clean object-oriented architecture**, **scalable databases**, and **test-driven development**
 
 ## Let's Connect
 
