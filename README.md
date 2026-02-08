@@ -2,7 +2,8 @@
 
 - B.S. Computer Science, **Central Michigan University** 2025
 - Certified UX Designer, **Google Careers** 2025
-- Passionate about **Native iOS Development**, **React and React Native Development**, **user experience**, **clean object-oriented architecture**, **scalable databases**, and **test-driven development**
+- Certified AI Agent Developer **Vanderbilt University** 2025
+- Passionate about **full-stack development**, **user experience**, **object-oriented and component-based architecture**, **scalable data solutions w/ smart caching methods for fast response times**, **agentic ai**, and **test-driven development**
 
 ## Let's Connect
 
