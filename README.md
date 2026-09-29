@@ -3,7 +3,7 @@
 - B.S. Computer Science, **Central Michigan University** 2025
 - Certified UX Designer, **Google Careers** 2025
 - Certified AI Agent Developer, **Vanderbilt University** 2025
-- Certified Vison Professional, **A3 Automation** 2026
+- Certified Vision Professional, **A3 Automation** 2026
 
 ## Let's Connect
 
